@@ -1,0 +1,39 @@
+:root {
+	--primary: #000000;
+	--secondary: #fafafa;
+	--pButton: #39353b;
+	--sButton: #e7e9e8;
+	--accent: #3b3935;
+	--mainWidth: 80vw;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#workerPic {
+	width: var(--mainWidth);
+}
+
+#resumen {
+	width: var(--mainWidth);
+}
+
+#resumen>h1 {
+	text-align: center;
+}
+
+#resumen>p {
+	text-align: justify;
+}
