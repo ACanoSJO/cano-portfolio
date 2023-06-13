@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Primary: #100722 (RGB: 16, 7, 34)
+    Secondary: #e3d9f7 (RGB: 227, 217, 247)
+    Primary Button: #662ed6 (RGB: 102, 46, 214)
+    Secondary Button: #efeafb (RGB: 239, 234, 251)
+    Accent: #7644da (RGB: 118, 68, 218)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=100722-e3d9f7-662ed6-efeafb-7644da
+
+Thanks for using RealtimeColors.com!
