@@ -51,11 +51,6 @@ main {
 	scroll-snap-stop: always;
 }
 
-#container>* {
-	position: sticky;
-	top: 0;
-}
-
 #resumen>h1 {
 	text-align: center;
 }
@@ -170,8 +165,6 @@ article {
 	padding: 1rem;
 	scroll-snap-align: start;
 	scroll-snap-stop: always;
-	position: sticky;
-	top: 0;
 }
 
 .images {
